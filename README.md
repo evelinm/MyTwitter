@@ -11,20 +11,22 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 # MyTwitter Part 1
 
+Time spend 6 hours in total
+
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [x ]  User sees app icon in home screen and styled launch screen. (1pt)
-- [x ]   User can log in. (1pt)
+- [x]  User sees app icon in home screen and styled launch screen. (1pt)
+- [x]   User can log in. (1pt)
 - [x]  User can log out. (1pt)
-- [ x]   User stays logged in across restarts. (1pt)
-- [ x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x]   User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 
 #### BONUS
-- [x ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ### App Walkthough GIF
 
@@ -32,4 +34,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/2LjorFKIh0EA83ZUO3/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had issues with pushing to github, I rebased my code and my code got deleted, Im going to ask for help tommorow, I wanted to turn in my hm before the due time, to get full points. 
